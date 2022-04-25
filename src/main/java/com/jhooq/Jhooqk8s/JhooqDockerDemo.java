@@ -1,13 +1,13 @@
-package com.jhooq.Jhooqk8s;
+package com.srinu.srinuk8s;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JhooqDockerDemo {
+public class srinuDockerDemo {
 
     public static void main(String[] args) {
-        SpringApplication.run(JhooqDockerDemo.class, args);
+        SpringApplication.run(srinuDockerDemo.class, args);
     }
 
 }
